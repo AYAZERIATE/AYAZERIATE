@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 i'am  Aya Zeriate
+🎓 Full-Stack Development Student
+💻 Passionate about building modern, user-friendly web applications
 
-<!--
-**AYAZERIATE/AYAZERIATE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I’m working on
 
-Here are some ideas to get you started:
+A Social Media Application with interactive features and clean UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<📫 How to reach me
+
+🔗 LinkedIn: Aya Zeriate
+
+📧 Email: ayazeriate6@gmail.com!--
+
