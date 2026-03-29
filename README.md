@@ -76,19 +76,7 @@ I am a passionate and motivated full-stack web developer focused on building **m
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c6fff&icon_color=7c6fff&text_color=8884a8&count_private=true)](https://github.com/aya-zeriate)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c6fff&text_color=8884a8)](https://github.com/aya-zeriate)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aya-zeriate&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e1d2e&ring=7c6fff&fire=c084fc&currStreakLabel=7c6fff)](https://github.com/aya-zeriate)
-
-</div>
-
----
 
 ## Let's Connect
 
