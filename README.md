@@ -2,7 +2,7 @@
 
 # Aya Zeriate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7C6FFF&center=true&vCenter=true&width=520&lines=React+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+modern+%26+scalable+web+apps;Open+to+PFE+internship+2025+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7C6FFF&center=true&vCenter=true&width=520&lines=React+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+modern+%26+scalable+web+apps;Open+to+PFE+internship+2026+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aya-zeriate&color=7c6fff&style=flat-square&label=Profile+Views)
 &nbsp;
@@ -10,7 +10,7 @@
 &nbsp;
 ![Focus](https://img.shields.io/badge/Focus-Full_Stack_Web-7c6fff?style=flat-square)
 &nbsp;
-![Year](https://img.shields.io/badge/PFE-2025-f59e0b?style=flat-square)
+![Year](https://img.shields.io/badge/PFE-2026-f59e0b?style=flat-square)
 
 </div>
 
@@ -101,6 +101,6 @@ Passionate full-stack developer building **modern, responsive, and user-friendly
 
 *"Code is craft. Ship with intention."*
 
-**Aya Zeriate · Full-Stack Developer · 2025**
+**Aya Zeriate · Full-Stack Developer · 2026**
 
 </div>
