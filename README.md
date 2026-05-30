@@ -2,15 +2,13 @@
 
 # Aya Zeriate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7C6FFF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%7C+React+%2B+Laravel;Architecting+scalable+REST+APIs+%26+modern+UIs;MySQL+%7C+MongoDB+%7C+Sanctum+Auth;Open+to+PFE+Internship+2026+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7C6FFF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%7C+React+%2B+Laravel;Architecting+scalable+REST+APIs+%26+modern+UIs;MySQL+%7C+MongoDB+%7C+Sanctum+Auth;Building+real+products+with+clean+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aya-zeriate&color=7c6fff&style=flat-square&label=Profile+Views)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Open_to_PFE_Internship-4ade80?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-4ade80?style=flat-square)
 &nbsp;
 ![Focus](https://img.shields.io/badge/Focus-Full_Stack_Web_Development-7c6fff?style=flat-square)
-&nbsp;
-![Year](https://img.shields.io/badge/PFE-2026-f59e0b?style=flat-square)
 
 </div>
 
@@ -20,7 +18,7 @@
 
 Full-stack web developer with hands-on experience designing and building end-to-end web applications — from relational and NoSQL database architecture to responsive, component-driven frontend interfaces. Proficient in **React**, **Laravel**, **REST API design**, **MySQL**, and **MongoDB**, with a strong emphasis on clean code, scalable architecture, and intuitive user experience.
 
-Currently seeking a **PFE internship (2026)** where I can contribute meaningfully to a product-focused engineering team, deepen my expertise in modern web technologies, and deliver real business value from day one.
+Passionate about delivering real-world solutions through well-structured code, thoughtful UI/UX decisions, and modern engineering practices.
 
 ---
 
@@ -99,11 +97,21 @@ I build web applications that are fast, maintainable, and designed with the end 
 
 ---
 
+## GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=transparent&hide_border=true&title_color=7c6fff&icon_color=4ade80&text_color=94a3b8)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=transparent&hide_border=true&title_color=7c6fff&text_color=94a3b8)
+
+</div>
 
 ---
 
-k.
+## Let's Connect
+
+If you're building something great and need a motivated full-stack developer who ships clean, purposeful code — let's talk.
 
 <div align="left">
 
@@ -119,6 +127,6 @@ k.
 
 *"Good software is built with intention — one clean commit at a time."*
 
-**Aya Zeriate · Full-Stack Developer · PFE 2026**
+**Aya Zeriate · Full-Stack Developer**
 
 </div>
