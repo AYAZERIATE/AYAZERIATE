@@ -2,13 +2,13 @@
 
 # Aya Zeriate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7C6FFF&center=true&vCenter=true&width=520&lines=React+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+modern+%26+scalable+web+apps;Open+to+PFE+internship+2026+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7C6FFF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%7C+React+%2B+Laravel;Architecting+scalable+REST+APIs+%26+modern+UIs;MySQL+%7C+MongoDB+%7C+Sanctum+Auth;Open+to+PFE+Internship+2026+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aya-zeriate&color=7c6fff&style=flat-square&label=Profile+Views)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Open_to_Internship-4ade80?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_PFE_Internship-4ade80?style=flat-square)
 &nbsp;
-![Focus](https://img.shields.io/badge/Focus-Full_Stack_Web-7c6fff?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full_Stack_Web_Development-7c6fff?style=flat-square)
 &nbsp;
 ![Year](https://img.shields.io/badge/PFE-2026-f59e0b?style=flat-square)
 
@@ -16,18 +16,38 @@
 
 ---
 
-## About me
+## Professional Summary
 
-Passionate full-stack developer building **modern, responsive, and user-friendly** applications — from database architecture to polished interfaces. I enjoy transforming ideas into real-world solutions using clean, maintainable code and thoughtful UI/UX design.
+Full-stack web developer with hands-on experience designing and building end-to-end web applications — from relational and NoSQL database architecture to responsive, component-driven frontend interfaces. Proficient in **React**, **Laravel**, **REST API design**, **MySQL**, and **MongoDB**, with a strong emphasis on clean code, scalable architecture, and intuitive user experience.
 
-- 🚀 Continuously improving my skills and exploring new technologies
-- 🎯 Currently seeking a **PFE internship in Web Development** — ready to contribute, learn, and grow
-- 🌱 Deepening expertise in **Laravel**, **MongoDB**, and **full-stack architecture**
-- ⚡ Recently built a full-stack admin dashboard with React + Laravel Sanctum + Leaflet maps
+Currently seeking a **PFE internship (2026)** where I can contribute meaningfully to a product-focused engineering team, deepen my expertise in modern web technologies, and deliver real business value from day one.
 
 ---
 
-## Tech stack
+## About Me
+
+I build web applications that are fast, maintainable, and designed with the end user in mind. My work spans the full stack — from designing normalized database schemas and secured API endpoints, to crafting polished, responsive interfaces with React and Tailwind CSS.
+
+- 🏗️ Recently shipped a **full-stack admin dashboard** featuring React, Laravel Sanctum authentication, and interactive Leaflet maps
+- 🌐 Currently building a **social media platform** with a microservice-inspired architecture using React, Laravel, and MongoDB
+- 📐 Focused on writing code that is readable, testable, and built to scale
+- 🔍 Continuously exploring best practices in **API security**, **UI/UX design**, and **modern full-stack architecture**
+
+---
+
+## Key Strengths
+
+| Area | Strengths |
+|---|---|
+| **Frontend** | Component-driven UI with React, responsive layouts, Tailwind CSS, clean UX thinking |
+| **Backend** | RESTful API design with Laravel, token-based auth (Sanctum), server-side logic |
+| **Databases** | Relational modeling with MySQL, document-based design with MongoDB |
+| **Tooling** | Git workflow, Vite, Figma for prototyping, VS Code |
+| **Mindset** | Detail-oriented, problem-solver, fast learner, collaborative team member |
+
+---
+
+## Tech Stack
 
 **Frontend**
 
@@ -60,20 +80,26 @@ Passionate full-stack developer building **modern, responsive, and user-friendly
 
 ---
 
-## Current project
+## Featured Project
 
-### 📱 Social media web application
+### 📱 Social Media Web Application
 
-> A dynamic and interactive platform featuring a clean user interface, modern design, and engaging user experience — built with **React**, **Laravel**, and **MongoDB**.
+> A fully featured social platform built with a modern full-stack architecture. Designed for scale and performance, it delivers a dynamic feed experience, user authentication, profile management, and real-time interactions — all within a clean, responsive interface.
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Laravel_REST_API-FF2D20?style=flat-square)
 ![DB](https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square)
+
+**Highlights:**
+- 🔐 Secure authentication flow with session and token management
+- 📡 Decoupled frontend/backend via a RESTful API layer
+- 🗃️ MongoDB document model optimized for social graph data
+- 📱 Fully responsive design built with React and Tailwind CSS
 
 ---
 
-## GitHub stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +111,9 @@ Passionate full-stack developer building **modern, responsive, and user-friendly
 
 ---
 
-## Let's connect
+## Let's Connect
+
+I'm actively looking for a **PFE internship in Full-Stack Web Development for 2026**. If you're building something great and need a motivated developer who ships clean, purposeful code — let's talk.
 
 <div align="left">
 
@@ -99,8 +127,8 @@ Passionate full-stack developer building **modern, responsive, and user-friendly
 
 <div align="center">
 
-*"Code is craft. Ship with intention."*
+*"Good software is built with intention — one clean commit at a time."*
 
-**Aya Zeriate · Full-Stack Developer · 2026**
+**Aya Zeriate · Full-Stack Developer · PFE 2026**
 
 </div>
