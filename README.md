@@ -97,17 +97,7 @@ I build web applications that are fast, maintainable, and designed with the end 
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=transparent&hide_border=true&title_color=7c6fff&icon_color=4ade80&text_color=94a3b8)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=transparent&hide_border=true&title_color=7c6fff&text_color=94a3b8)
-
-</div>
-
----
 
 ## Let's Connect
 
