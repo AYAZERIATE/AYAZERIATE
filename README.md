@@ -73,15 +73,7 @@ A fully featured social platform built with a modern full-stack architecture —
 
 ---
 
-## GitHub stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
