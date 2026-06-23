@@ -1,70 +1,102 @@
-
-
 <div align="center">
 
 # Aya Zeriate
-### **Full-Stack Developer | React.js · Laravel · REST APIs**
 
-Building high-performance, decoupled web applications with clean architecture and seamless UX.
+**Full-Stack Developer · React · Laravel · REST APIs · MySQL · MongoDB**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
+![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aya-zeriate&color=7c6fff&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## ⚡ Quick Overview
+## About
 
-I am a Full-Stack Developer specializing in building scalable Single Page Applications (SPAs) and robust RESTful APIs. I bridge the gap between complex institutional workflows and responsive, component-driven user interfaces.
+Full-stack developer with hands-on experience designing and building end-to-end web applications — from relational and NoSQL database architecture to responsive, component-driven frontend interfaces. Proficient in **React**, **Laravel**, **REST API design**, **MySQL**, and **MongoDB**, with a strong emphasis on clean code, scalable architecture, and intuitive user experience.
 
-- 💼 **Recent Impact:** Developed **TrackRoute**, a decoupled platform for the *Ministry of Equipment, Transport, and Water (Rabat)*.
-- 🛠️ **Core Focus:** Clean code, modular React architecture, API middleware security, and dynamic data visualization.
-
----
-
-## 🛠️ Technical Toolbox
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js (v18), JavaScript (ES6+), Tailwind CSS, React Router, Axios |
-| **Backend & APIs** | Laravel (v10), PHP, RESTful APIs, Laravel Sanctum, JWT |
-| **Databases** | MySQL 8 (Relational), MongoDB (NoSQL) |
-| **Tooling & Dev** | Git, GitHub, Vite, Postman, Figma, VS Code |
+- Recently shipped a **full-stack admin dashboard** featuring React, Laravel Sanctum authentication, and interactive Leaflet maps
+- Currently building a **social media platform** with a microservice-inspired architecture using React, Laravel, and MongoDB
+- Focused on writing code that is readable, testable, and built to scale
+- Continuously exploring best practices in API security, UI/UX design, and modern full-stack architecture
 
 ---
 
-## 📁 Key Projects
+## Tech Stack
 
-### 🗺️ 1. TrackRoute — Institutional Management Platform[cite: 4]
-> **Enterprise Web App | Ministry of Equipment, Transport, and Water**[cite: 4]
-- **The Core:** A fully decoupled React + Laravel SPA designed to digitize public infrastructure tracking[cite: 4].
-- **Advanced Modules:** 
-  - 📈 **Analytics:** Dashboards with live KPIs built with **Recharts**[cite: 4].
-  - 🗺️ **GeoTrack:** Geospatial layer using **React Leaflet** for real-time project mapping[cite: 4].
-  - 📊 **Data Engine:** Client-side dynamic generation of Excel (`SheetJS`) and Word (`docx.js`) reporting documents[cite: 4].
+**Frontend**
 
-*Stack:* `React.js` `Tailwind CSS` `Recharts` `React Leaflet` `Axios` `Vite`[cite: 4]
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-### 🌐 2. Social Media Platform
-> **Full-Stack Application with Document-Oriented Architecture**
-- **The Core:** An advanced social application engineered to handle dynamic user graphs and nested feeds.
-- **Backend & DB:** Structured JSON resource management in **Laravel** backed by a scalable **MongoDB** document model.
+## Key Strengths
 
-*Stack:* `React.js` `Laravel` `MongoDB` `Laravel Sanctum` `Tailwind CSS`
+| Area | Details |
+|---|---|
+| **Frontend** | Component-driven UI with React, responsive layouts, Tailwind CSS, clean UX thinking |
+| **Backend** | RESTful API design with Laravel, token-based authentication via Sanctum, server-side logic |
+| **Databases** | Relational modeling with MySQL, document-based design with MongoDB |
+| **Tooling** | Git workflows, Vite, Figma for prototyping, VS Code |
+| **Mindset** | Detail-oriented, problem-solver, fast learner, collaborative team member |
+
+---
+
+## Featured Project
+
+### Social Media Web Application
+
+![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A fully featured social platform built with a modern full-stack architecture. Designed for scale and performance, it delivers a dynamic feed experience, user authentication, profile management, and real-time interactions — all within a clean, responsive interface.
+
+**Highlights:**
+- Secure authentication flow with session and token management via Laravel Sanctum
+- Decoupled frontend/backend via a RESTful API layer for clean separation of concerns
+- MongoDB document model optimized for social graph data at scale
+- Fully responsive design built with React and Tailwind CSS
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect
 
-I am open to **Full-Stack / Frontend roles**, freelance contracts, and tech collaborations. Let's build something impactful together!
+Open to full-stack roles, freelance projects, and collaborations. If you're building something meaningful and need a motivated developer who ships clean, purposeful code — let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-Email_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Email_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
 
 ---
+
 <div align="center">
   <sub><em>"Good software is built with intention — one clean commit at a time."</em></sub>
 </div>
