@@ -136,25 +136,7 @@ A production-grade social platform built for scale. Features a dynamic content f
 
 <br/>
 
----
 
-## &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&hide_border=false&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&border_color=222222&hide_border=false" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=aya-zeriate&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444&border=222222)
-
-</div>
 
 <br/>
 
