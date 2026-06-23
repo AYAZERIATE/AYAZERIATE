@@ -2,88 +2,94 @@
 
 # Aya Zeriate
 
-### **Full-Stack Developer | React.js · Laravel · REST APIs · SQL & NoSQL**
+**Full-Stack Developer · React · Laravel · REST APIs · MySQL · MongoDB**
 
-Building high-performance, decoupled web applications with clean architecture and intuitive user experiences.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=aya-zeriate&color=7c6fff&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
+![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aya-zeriate&color=7c6fff&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I am a passionate Full-Stack Developer specializing in building scalable Single Page Applications (SPAs) and robust RESTful APIs. With hands-on experience in both relational (**MySQL**) and document-oriented (**MongoDB**) databases, I focus on translating complex institutional and business workflows into modern, high-performance digital solutions.
+Full-stack developer with hands-on experience designing and building end-to-end web applications — from relational and NoSQL database architecture to responsive, component-driven frontend interfaces. Proficient in **React**, **Laravel**, **REST API design**, **MySQL**, and **MongoDB**, with a strong emphasis on clean code, scalable architecture, and intuitive user experience.
 
-- 💼 **Recent Experience:** Developed a production-ready, decoupled institutional platform for the *Ministry of Equipment, Transport, and Water (Rabat)*.
-- 🛠️ **Architectural Focus:** High on modular component design, API security, automated data workflows, and asynchronous state management.
-- 🎯 **Core Values:** Clean code, testable logic, responsive UI, and continuous learning.
-
----
-
-## 💻 Technical Stack
-
-### **Frontend Engineering**
-- **Core:** React.js (v18), JavaScript (ES6+), HTML5, CSS3
-- **Styling & UI:** Tailwind CSS, Bootstrap, Responsive Frameworks
-- **Ecosystem:** React Router, Axios, Recharts (Data Viz), React Leaflet (Interactive Maps)
-
-### **Backend Engineering & APIs**
-- **Core:** Laravel (v10), PHP
-- **Architecture:** Decoupled SPA Architecture, MVC Pattern, REST API Design, Middleware Security
-- **Authentication:** Laravel Sanctum, JWT Authentication
-
-### **Databases & Tooling**
-- **Databases:** MySQL 8 (Relational Modeling, Composite Indexing), MongoDB (NoSQL Social Graph Model)
-- **Workflow & Tools:** Git, GitHub, Vite, Postman, Figma, VS Code
+- Recently shipped a **full-stack admin dashboard** featuring React, Laravel Sanctum authentication, and interactive Leaflet maps
+- Currently building a **social media platform** with a microservice-inspired architecture using React, Laravel, and MongoDB
+- Focused on writing code that is readable, testable, and built to scale
+- Continuously exploring best practices in API security, UI/UX design, and modern full-stack architecture
 
 ---
 
-## 📁 Featured Projects
+## Tech Stack
 
-### 🗺️ 1. TrackRoute — Institutional Management Platform
-> **Enterprise Web App built for the Ministry of Equipment, Transport, and Water (Rabat)**
+**Frontend**
 
-TrackRoute is a fully decoupled Single Page Application engineered to digitize manual workflows, centralize financial dotations, automate public market tracking, and map national road infrastructure.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- **Frontend Architecture:** Component-driven design using **React 18**, **Vite**, and **Tailwind CSS** with fully responsive nested layouts.
-- **Advanced Modules:** - 📈 **Analytics Hub:** Interactive dashboards featuring live KPIs and data visualizations built with **Recharts** (Area/Bar charts).
-  - 🗺️ **GeoTrack:** Geospatial visualization layer using **React Leaflet** over custom dark-mode tile providers to filter and display national construction sites.
-  - 🗓️ **Institutional Agenda:** Interactive monthly scheduling engine with real-time priority flagging and urgencies handling.
-  - 📊 **Data Export Engine:** Seamless client-side dynamic generation of Excel (`SheetJS`) and Word (`docx.js`) reporting documents.
-- **Security:** Strict route protections via React Router and authenticated communication using Axios interceptors and secure tokens.
+**Backend**
 
-*Stack:* `React.js` `Tailwind CSS` `Recharts` `React Leaflet` `Axios` `Vite`
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
+**Databases**
 
-### 🌐 2. Social Media Platform (Microservice-Inspired)
-> **Full-Stack Application with Document-Oriented Architecture**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-An ongoing advanced social application built to handle dynamic user graphs, nested feeds, real-time-like updates, and seamless cross-origin data synchronization.
+**Tools & Design**
 
-- **API Layer:** Secured RESTful endpoints built using **Laravel** with structured JSON resource management.
-- **NoSQL Integration:** Scalable document modeling with **MongoDB** optimized for heavy write-and-read social activities.
-- **Authentication:** Multi-guard token management implemented via **Laravel Sanctum**.
-
-*Stack:* `React.js` `Laravel` `MongoDB` `Laravel Sanctum` `Tailwind CSS`
-
----
-
-## 📈 Engineering Principles I Follow
-- **Separation of Concerns:** Rigid segregation between the UI layout layer and backend business logic.
-- **Performance Optimization:** Strict usage of performance-focused React hooks (`useMemo`, `useCallback`) and query optimization to avoid race conditions.
-- **Defensive Design:** Comprehensive client and server-side schema validations to maintain perfect data integrity.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect!
+## Key Strengths
 
-I am currently open to **Full-Stack / Frontend roles**, freelance projects, and tech collaborations. If you are looking for a rigorous developer who writes purposeful, testable code to optimize real-world operations—let's build together!
+| Area | Details |
+|---|---|
+| **Frontend** | Component-driven UI with React, responsive layouts, Tailwind CSS, clean UX thinking |
+| **Backend** | RESTful API design with Laravel, token-based authentication via Sanctum, server-side logic |
+| **Databases** | Relational modeling with MySQL, document-based design with MongoDB |
+| **Tooling** | Git workflows, Vite, Figma for prototyping, VS Code |
+| **Mindset** | Detail-oriented, problem-solver, fast learner, collaborative team member |
+
+---
+
+## Featured Project
+
+### Social Media Web Application
+
+![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A fully featured social platform built with a modern full-stack architecture. Designed for scale and performance, it delivers a dynamic feed experience, user authentication, profile management, and real-time interactions — all within a clean, responsive interface.
+
+**Highlights:**
+- Secure authentication flow with session and token management via Laravel Sanctum
+- Decoupled frontend/backend via a RESTful API layer for clean separation of concerns
+- MongoDB document model optimized for social graph data at scale
+- Fully responsive design built with React and Tailwind CSS
+
+---
+
+## Let's Connect
+
+Open to full-stack roles, freelance projects, and collaborations. If you're building something meaningful and need a motivated developer who ships clean, purposeful code — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
 &nbsp;
@@ -92,5 +98,5 @@ I am currently open to **Full-Stack / Frontend roles**, freelance projects, and 
 ---
 
 <div align="center">
-  <sub><em>"Good software is built with intention — one clean, purposeful commit at a time."</em></sub>
+  <sub><em>"Good software is built with intention — one clean commit at a time."</em></sub>
 </div>
