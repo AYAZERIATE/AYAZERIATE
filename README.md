@@ -8,7 +8,7 @@
 
 # Aya Zeriate
 
-`Full-Stack Developer` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Laravel` &nbsp;·&nbsp; `REST APIs` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `MongoDB`
+`Full-Stack Developer` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Laravel` &nbsp;·&nbsp; `REST APIs` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `MongoDB`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
@@ -33,12 +33,12 @@ from database architecture to pixel-perfect interfaces.
 
 I'm a full-stack developer who designs and ships complete web products — from database schema to responsive UI. I care deeply about clean architecture, developer experience, and building interfaces that feel fast and intentional.
 
-Currently focused on full-stack applications with **React**, **Laravel**, and **MongoDB** — with an emphasis on API design, authentication systems, and scalable data modeling.
+Currently focused on full-stack applications with **React**, **TypeScript**, **Laravel**, and **MongoDB** — with an emphasis on type-safe API design, authentication systems, and scalable data modeling.
 
-- Shipped a **full-stack admin dashboard** — React frontend, Laravel Sanctum auth, Leaflet map integration
+- Shipped a **full-stack admin dashboard** — React + TypeScript frontend, Laravel Sanctum auth, Leaflet map integration
 - Building a **social media platform** with decoupled microservice-inspired architecture
 - Committed to readable, testable, and maintainable code at every layer of the stack
-- Continuously deepening expertise in API security, system design, and modern UI/UX patterns
+- Continuously deepening expertise in type systems, API security, system design, and modern UI/UX patterns
 
 <br/>
 
@@ -47,7 +47,7 @@ Currently focused on full-stack applications with **React**, **Laravel**, and **
 ## &nbsp;Tech Stack
 
 ```yaml
-Frontend:   React · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3 · Bootstrap
+Frontend:   React · TypeScript · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3 · Bootstrap
 Backend:    Laravel · PHP · REST API Design · Laravel Sanctum
 Databases:  MySQL · MongoDB
 Tooling:    Git · GitHub · Vite · Figma · VS Code
@@ -58,6 +58,7 @@ Tooling:    Git · GitHub · Vite · Figma · VS Code
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
@@ -97,10 +98,11 @@ Tooling:    Git · GitHub · Vite · Figma · VS Code
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-000000?style=flat-square)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 
-A production-grade social platform built for scale. Features a dynamic content feed, real-time interactions, profile management, and a fully decoupled architecture designed for maintainability and growth.
+A production-grade social platform built for scale. Features a dynamic content feed, real-time interactions, profile management, and a fully decoupled architecture designed for maintainability and growth. Built with end-to-end type safety using TypeScript.
 
 </td>
 <td width="50%" valign="top">
@@ -108,6 +110,7 @@ A production-grade social platform built for scale. Features a dynamic content f
 **Architecture highlights**
 
 ```
+✦  TypeScript — end-to-end type safety
 ✦  Laravel Sanctum — token + session auth
 ✦  RESTful API — clean frontend/backend separation
 ✦  MongoDB — document model for social graph data
@@ -127,8 +130,9 @@ A production-grade social platform built for scale. Features a dynamic content f
 
 | Capability | Detail |
 |---|---|
+| **Type Safety** | End-to-end TypeScript — typed components, hooks, API responses, and data models |
 | **API Design** | RESTful APIs with versioning, token auth, and structured error handling |
-| **Frontend Architecture** | Component-driven React UIs with clean state management and responsive layouts |
+| **Frontend Architecture** | Component-driven React + TypeScript UIs with clean state management and responsive layouts |
 | **Database Design** | Relational modeling with MySQL · Document-based design with MongoDB |
 | **Authentication** | Laravel Sanctum — session and token-based auth flows |
 | **Tooling** | Git workflows · Vite build tooling · Figma prototyping · VS Code |
@@ -136,7 +140,25 @@ A production-grade social platform built for scale. Features a dynamic content f
 
 <br/>
 
+---
 
+## &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&hide_border=false&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&border_color=222222&hide_border=false" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=aya-zeriate&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444&border=222222)
+
+</div>
 
 <br/>
 
