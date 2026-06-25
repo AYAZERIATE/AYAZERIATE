@@ -146,11 +146,7 @@ A production-grade social platform built for scale. Features a dynamic content f
 
 <br/>
 
-<div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=aya-zeriate&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444&border=222222)
-
-</div>
 
 <br/>
 
