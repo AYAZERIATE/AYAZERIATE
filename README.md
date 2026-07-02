@@ -42,40 +42,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aya-zeriate&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aya-zeriate&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
-</div>
