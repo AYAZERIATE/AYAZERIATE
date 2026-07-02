@@ -2,16 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Aya%20Zeriate&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descAlignY=85&descSize=14" width="100%"/>
 </div>
 
-## 💫 About Me
+## &nbsp;About
 
-- 🔭 I'm currently building a **full-stack social media platform** (React · TypeScript · Laravel · MongoDB)
-- 👫 I'm looking to collaborate on **open-source web development projects**
-- 🤝 I'm looking for help with **scaling REST APIs and optimizing database performance**
-- 🌱 I'm currently learning **TypeScript advanced patterns and microservice architecture**
-- 💬 Ask me about **React, Laravel, PHP, MySQL, REST APIs, and clean architecture**
-- ⚡ Fun fact: I built a complete **logistics tracking dashboard** during my internship at Morocco's Ministry of Equipment — maps, analytics, and all
+I'm a full-stack developer who designs and ships complete web products — from database schema to responsive UI. I care deeply about clean architecture, developer experience, and building interfaces that feel fast and intentional.
 
----
+Currently focused on full-stack applications with **React**, **TypeScript**, **Laravel**, and **MongoDB** — with an emphasis on type-safe API design, authentication systems, and scalable data modeling.
+
+- Shipped a **full-stack admin dashboard** — React + TypeScript frontend, Laravel Sanctum auth, Leaflet map integration
+- Building a **social media platform** with decoupled microservice-inspired architecture
+- Committed to readable, testable, and maintainable code at every layer of the stack
+- Continuously deepening expertise in type systems, API security, system design, and modern UI/UX patterns
+
+<br/>
 
 ## 🌐 Socials
 
