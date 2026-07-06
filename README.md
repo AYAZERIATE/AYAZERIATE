@@ -1,104 +1,49 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Aya%20Zeriate&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descAlignY=85&descSize=14" width="100%"/>
+</div>
 
-<!-- BANNER ANIMATED STYLE CYBER-GLITCH (Bhal l-video) -->
-<img src="https://capsule-render.vercel.app/api?type=glitch&color=auto&height=200&section=header&text=Aya%20Zeriate&fontSize=70&animation=twinkle" width="100%" alt="Aya Banner" />
+## &nbsp;About
+
+I'm a full-stack developer who designs and ships complete web products — from database schema to responsive UI. I care deeply about clean architecture, developer experience, and building interfaces that feel fast and intentional.
+
+Currently focused on full-stack applications with **React**, **TypeScript**, **Laravel**, and **MongoDB** — with an emphasis on type-safe API design, authentication systems, and scalable data modeling.
+
+- Shipped a **full-stack admin dashboard** — React + TypeScript frontend, Laravel Sanctum auth, Leaflet map integration
+- Building a **social media platform** with decoupled microservice-inspired architecture
+- Committed to readable, testable, and maintainable code at every layer of the stack
+- Continuously deepening expertise in type systems, API security, system design, and modern UI/UX patterns
 
 <br/>
 
-### **🚀 Full-Stack Developer | React.js · Laravel · REST APIs**
+## 🌐 Socials
 
-*Building high-performance applications with clean architecture and seamless UX.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
-## ⚡ Quick Overview
+## 💻 Tech Stack
 
-I am a Full-Stack Developer specializing in building scalable Single Page Applications (SPAs) and robust RESTful APIs. I bridge the gap between complex institutional workflows and responsive, component-driven user interfaces.
-
-- 💼 **Recent Impact:** Developed **TrackRoute**[cite: 4], a decoupled platform for the *Ministry of Equipment, Transport, and Water (Rabat)*[cite: 4].
-- 🛠️ **Core Focus:** Clean code, modular React architecture, API middleware security, and dynamic data visualization.
-
----
-
-## 🛠️ Technical Toolbox (Animated Dev Icons)
-
-<div align="left">
-
-### **Frontend Engineering**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" alt="Frontend Skills" />
-</p>
-
-### **Backend & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,mongodb" alt="Backend Skills" />
-</p>
-
-### **Tooling & Dev**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma,vscode" alt="Tools" />
-</p>
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📁 Key Projects
 
-### 🗺️ 1. TrackRoute — Institutional Management Platform[cite: 4]
-> **Enterprise Web App | Ministry of Equipment, Transport, and Water**[cite: 4]
-- **The Core:** A fully decoupled React + Laravel SPA designed to digitize public infrastructure tracking[cite: 4].
-- **Advanced Modules:** 
-  - 📈 **Analytics:** Dashboards with live KPIs built with **Recharts**[cite: 4].
-  - 🗺️ **GeoTrack:** Geospatial layer using **React Leaflet** for real-time project mapping[cite: 4].
-  - 📊 **Data Engine:** Client-side dynamic generation of Excel (`SheetJS`) and Word (`docx.js`) reporting documents[cite: 4].
-
-*Stack:* `React.js` `Tailwind CSS` `Recharts` `React Leaflet` `Axios` `Vite`[cite: 4]
 
 ---
-
-### 🌐 2. Social Media Platform
-> **Full-Stack Application with Document-Oriented Architecture**
-- **The Core:** An advanced social application engineered to handle dynamic user graphs and nested feeds.
-- **Backend & DB:** Structured JSON resource management in **Laravel** backed by a scalable **MongoDB** document model.
-
-*Stack:* `React.js` `Laravel` `MongoDB` `Laravel Sanctum` `Tailwind CSS`
-
----
-
-## 📊 GitHub Analytics & Activity (Bhal l-video)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aya-zeriate&show_icons=true&theme=tokyonight&count_private=true" alt="Aya's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aya-zeriate&theme=tokyonight" alt="Aya's Streak Stats" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  
-  <!-- Graphique dyal l-langages li mkhdma bzaf -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-zeriate&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I am open to **Full-Stack / Frontend roles**, freelance contracts, and tech collaborations. Let's build something impactful together!
-
-<div align="center">
-  <br/>
-  <sub><em>"Good software is built with intention — one clean commit at a time."</em></sub>
-</div>
