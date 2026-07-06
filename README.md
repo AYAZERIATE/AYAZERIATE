@@ -104,10 +104,10 @@ Key modules: MySQL/MongoDB, Agile/Scrum, UML/Merise, PHP & JavaScript developmen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AYAZERIATE&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AYAZERIATE&theme=matrix&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=matrix&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAZERIATE&layout=compact&theme=matrix&hide_border=true" />
 
 </div>
 
@@ -115,7 +115,7 @@ Key modules: MySQL/MongoDB, Agile/Scrum, UML/Merise, PHP & JavaScript developmen
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=AYAZERIATE&theme=matrix&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -123,7 +123,7 @@ Key modules: MySQL/MongoDB, Agile/Scrum, UML/Merise, PHP & JavaScript developmen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAZERIATE&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
