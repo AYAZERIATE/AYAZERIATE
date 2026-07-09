@@ -43,26 +43,3 @@ Currently focused on full-stack applications with **React**, **TypeScript**, **L
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-
-
----
-
-## &nbsp;📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYAZERIATE&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAZERIATE&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AYAZERIATE&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&dates=c9d1d9" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAZERIATE&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AYAZERIATE&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
-</div>
