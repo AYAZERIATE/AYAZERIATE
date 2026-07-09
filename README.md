@@ -51,8 +51,6 @@ Currently focused on full-stack applications with **React**, **TypeScript**, **L
 ## &nbsp;📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYAZERIATE&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAZERIATE&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" width="49%" />
 </div>
 
 <div align="center">
