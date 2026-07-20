@@ -1,78 +1,74 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=AYA%20ZERIATE&fontSize=34&fontColor=00FF41&fontAlignY=60&desc=%3E%20FULL-STACK%20DEVELOPER%20//%20PLAYER%20READY&descAlignY=80&descSize=14&descColor=61DAFB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Aya%20Zeriate&fontSize=34&fontColor=00FF41&fontAlignY=60&desc=Full-Stack%20Developer&descAlignY=80&descSize=15&descColor=61DAFB" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=BOOTING+DEV+ENVIRONMENT...;LOADING+STACK%3A+REACT+%2B+LARAVEL+%2B+MONGODB;STATUS%3A+OPEN+TO+NEW+QUESTS+(STAGE+D'APPLICATION))](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Laravel+%2B+MongoDB;Open+to+a+Stage+d'Application+in+Rabat+%2F+S%C3%A9l%C3%A9+%2F+T%C3%A9mara)](https://git.io/typing-svg)
 
 <br/>
-
-## `[ PLAYER_CARD.dat ]`
-
-<div align="center">
-
-| ATTRIBUTE | VALUE |
-|:---|:---|
-| 🧑‍💻 **Class** | Full-Stack Developer |
-| 🏛️ **Guild** | ISTA Hay Riad — Digital Development (Web Full Stack) |
-| 📍 **Server Region** | Rabat / Salé / Témara, Morocco |
-| 🎯 **Active Quest** | Seeking a **Stage d'Application** in Web Development |
-| 🛡️ **Last Boss Cleared** | Ministère de l'Équipement, du Transport et de l'Eau — TrackRoute |
-
-</div>
-
-<br/>
-
-## `[ LEVEL_PROGRESS.exe ]`
-
-<div align="center">
 
 ![Level](https://img.shields.io/badge/LEVEL-12-00FF41?style=for-the-badge&labelColor=0D1117)
-![XP](https://img.shields.io/badge/XP-8%2C420%20%2F%2010%2C000-61DAFB?style=for-the-badge&labelColor=0D1117)
-![Rank](https://img.shields.io/badge/RANK-JUNIOR%20DEV-FFB000?style=for-the-badge&labelColor=0D1117)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FFB000?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/BASE-RABAT%2C%20MOROCCO-61DAFB?style=for-the-badge&labelColor=0D1117)
 
-<img src="https://progress-bar.dev/84/?title=NEXT%20LEVEL&width=500&color=00FF41&suffix=%25" />
+<img src="https://progress-bar.dev/84/?title=XP&width=400&color=00FF41" />
 
 </div>
 
 <br/>
 
-## `[ ACHIEVEMENTS_UNLOCKED.log ]`
+## About
 
-> 🏆 **Frontend Deployed** — Built the full frontend for **TrackRoute**, a logistics & route-tracking platform, as Frontend Developer Intern at Morocco's Ministère de l'Équipement, du Transport et de l'Eau. Shipped API integration, JWT-based auth flow, and protected routing.
+I'm a full-stack developer who designs and ships complete web products — from database schema to responsive UI. I care about clean architecture, developer experience, and interfaces that feel fast and intentional.
 
-> 🏆 **Full-Stack Unlocked** — Extended TrackRoute into the backend: Laravel 11 REST API, MySQL schema, and route architecture.
+Currently building with **React**, **TypeScript**, **Laravel**, and **MongoDB**, with a focus on type-safe APIs, authentication systems, and scalable data modeling.
 
 <br/>
 
-## `[ QUEST_LOG.json ]`
+## 🏆 Achievements
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Shipped a production frontend**
+Frontend Developer Intern at Morocco's Ministère de l'Équipement, du Transport et de l'Eau — built the full frontend for TrackRoute, a logistics & route-tracking platform.
+
+</td>
+<td width="50%" valign="top">
+
+**Went full-stack**
+Extended TrackRoute with a Laravel 11 REST API, JWT auth, and MySQL schema — and debugged a full cascade of routing issues along the way.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🗺️ TrackRoute
-**Main Quest** · ✅ Cleared
-Logistics & route-tracking platform.
-`React` `Vite` `Laravel 11` `JWT` `MySQL`
+### TrackRoute
+Logistics & route-tracking platform
+`React` `Laravel 11` `JWT` `MySQL`
 
 </td>
 <td width="33%" valign="top">
 
-### 🗺️ Admin Dashboard
-**Side Quest** · ✅ Cleared
-Full-stack dashboard w/ live map data.
+### Admin Dashboard
+Full-stack dashboard with live map data
 `React` `TypeScript` `Sanctum` `Leaflet`
 
 </td>
 <td width="33%" valign="top">
 
-### 🗺️ Social Platform
-**Side Quest** · 🔄 In Progress
-Microservice-inspired social app.
+### Social Platform
+Microservice-inspired social app *(in progress)*
 `React` `Redux` `Laravel` `MySQL`
 
 </td>
@@ -81,23 +77,9 @@ Microservice-inspired social app.
 
 <br/>
 
-## `[ BOSS_FIGHTS_DEFEATED.exe ]`
+## Skills
 
-<div align="center">
-
-| BOSS | ARENA | RESULT |
-|:---|:---|:---:|
-| 🐉 Route Registration Hydra | `bootstrap/app.php` — duplicate route conflicts, infinite redirect loops | ☠️ Defeated |
-| 🐉 Windows/XAMPP Path Gauntlet | MySQL + Composer path mismatches, Git Bash environment | ☠️ Defeated |
-| 🐉 Laravel 11 Migration Boss | Cascading API route registration issues | ☠️ Defeated |
-
-</div>
-
-<br/>
-
-## `[ LOADOUT.inventory ]`
-
-**⚔️ Weapons — Languages & Frameworks**
+**Languages & Frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -106,34 +88,26 @@ Microservice-inspired social app.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**🛡️ Armor — Styling**
+**Styling**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**💾 Artifacts — Data & Storage**
+**Data**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**🧰 Tools — Utility Belt**
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Skill Tree**
-<div>
-<img src="https://progress-bar.dev/90/?title=React&width=300&color=00FF41" /><br/>
-<img src="https://progress-bar.dev/80/?title=Laravel&width=300&color=00FF41" /><br/>
-<img src="https://progress-bar.dev/75/?title=TypeScript&width=300&color=00FF41" /><br/>
-<img src="https://progress-bar.dev/65/?title=MongoDB&width=300&color=00FF41" />
-</div>
-
 <br/>
 
-## `[ GAME_STATS.render ]`
+## GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AYAZERIATE&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&dates=c9d1d9" width="70%" />
@@ -144,7 +118,7 @@ Microservice-inspired social app.
 
 <br/>
 
-## `[ MULTIPLAYER.connect ]`
+## Connect
 
 <div align="center">
 
