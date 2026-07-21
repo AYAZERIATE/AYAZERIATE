@@ -1,83 +1,31 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Aya%20Zeriate&fontSize=34&fontColor=00FF41&fontAlignY=60&desc=Full-Stack%20Developer&descAlignY=80&descSize=15&descColor=61DAFB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Aya%20Zeriate&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descAlignY=85&descSize=14" width="100%"/>
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Laravel+%2B+MongoDB;Open+to+a+Stage+d'Application+in+Rabat+%2F+S%C3%A9l%C3%A9+%2F+T%C3%A9mara)](https://git.io/typing-svg)
-
-<br/>
-
-![Level](https://img.shields.io/badge/LEVEL-12-00FF41?style=for-the-badge&labelColor=0D1117)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FFB000?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/BASE-RABAT%2C%20MOROCCO-61DAFB?style=for-the-badge&labelColor=0D1117)
-
-<img src="https://progress-bar.dev/84/?title=XP&width=400&color=00FF41" />
-
-</div>
-
-<br/>
 
 ## About
 
-I'm a full-stack developer who designs and ships complete web products — from database schema to responsive UI. I care about clean architecture, developer experience, and interfaces that feel fast and intentional.
+I'm a full-stack developer who designs and ships complete web products — from database schema to responsive UI. I care deeply about clean architecture, developer experience, and building interfaces that feel fast and intentional.
 
-Currently building with **React**, **TypeScript**, **Laravel**, and **MongoDB**, with a focus on type-safe APIs, authentication systems, and scalable data modeling.
-
-<br/>
-
-## 🏆 Achievements
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Shipped a production frontend**
-Frontend Developer Intern at Morocco's Ministère de l'Équipement, du Transport et de l'Eau — built the full frontend for TrackRoute, a logistics & route-tracking platform.
-
-</td>
-<td width="50%" valign="top">
-
-**Went full-stack**
-Extended TrackRoute with a Laravel 11 REST API, JWT auth, and MySQL schema — and debugged a full cascade of routing issues along the way.
-
-</td>
-</tr>
-</table>
+Currently focused on full-stack applications with **React**, **TypeScript**, **Laravel**, and **MongoDB**, with an emphasis on type-safe API design, authentication systems, and scalable data modeling.
 
 <br/>
 
-## Projects
+## Experience
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### TrackRoute
-Logistics & route-tracking platform
-`React` `Laravel 11` `JWT` `MySQL`
-
-</td>
-<td width="33%" valign="top">
-
-### Admin Dashboard
-Full-stack dashboard with live map data
-`React` `TypeScript` `Sanctum` `Leaflet`
-
-</td>
-<td width="33%" valign="top">
-
-### Social Platform
-Microservice-inspired social app *(in progress)*
-`React` `Redux` `Laravel` `MySQL`
-
-</td>
-</tr>
-</table>
+**Frontend Developer (Intern)** — Ministère de l'Équipement, du Transport et de l'Eau, Morocco
+Built the frontend for **TrackRoute**, a logistics and route-tracking platform, covering API integration, authentication flow, and protected routing.
 
 <br/>
 
-## Skills
+## Featured Projects
+
+- **TrackRoute** — Logistics and route-tracking platform. React/Vite frontend, Laravel 11 backend, JWT-based authentication, MySQL.
+- **Admin Dashboard** — Full-stack dashboard with React + TypeScript frontend, Laravel Sanctum auth, and Leaflet map integration.
+- **Social Media Platform** *(in progress)* — Decoupled, microservice-inspired architecture with React, Redux, Laravel, and MySQL.
+
+<br/>
+
+## Tech Stack
 
 **Languages & Frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -120,14 +68,6 @@ Microservice-inspired social app *(in progress)*
 
 ## Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
-</div>
