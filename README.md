@@ -57,9 +57,7 @@ Built the frontend for **TrackRoute**, a logistics and route-tracking platform, 
 
 ## GitHub Activity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AYAZERIATE&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&dates=c9d1d9" width="70%" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAZERIATE&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" width="100%" />
 </div>
