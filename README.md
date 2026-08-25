@@ -59,11 +59,7 @@ Built the frontend for **TrackRoute**, a logistics and route-tracking platform, 
 
 <br/>
 
-## GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAZERIATE&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" width="100%" />
-</div>
 
 <br/>
 
