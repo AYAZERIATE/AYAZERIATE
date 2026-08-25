@@ -3,7 +3,6 @@
 </div>
 
 ## About
-
 I'm a full-stack developer based in Morocco, building web products end-to-end — from the database schema to the screen someone actually clicks through. I like understanding a system fully rather than just the surface layer, which is part of why full-stack work suits me: the backend logic, the API contracts, and the UI details all end up connected.
 
 Right now I'm mostly working with **React**, **TypeScript**, **Laravel**, and **MongoDB** — building authentication flows, API integrations, and data models for real, working apps rather than isolated demos.
