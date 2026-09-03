@@ -14,9 +14,9 @@ Built the frontend for **TrackRoute**, a logistics and route-tracking platform, 
 <br/>
 
 ## Featured Projects
-- **TrackRoute** — Logistics and route-tracking platform. React/Vite frontend, Laravel 11 backend, JWT-based authentication, MySQL.
-- **Admin Dashboard** — Full-stack dashboard with React + TypeScript frontend, Laravel Sanctum auth, and Leaflet map integration.
-- **Social Media Platform** *(in progress)* — Decoupled, microservice-inspired architecture with React, Redux, Laravel, and MySQL.
+
+- **BookMySpace** — Space booking and reservation management platform built with Symfony, PHP, Doctrine ORM, and MySQL, with a focus on backend architecture, database management, entities, CRUD operations, authentication, and reservations.
+- **iClinika** — Medical management web application developed as part of a team project using PHP, MySQL, and cPanel, contributing to backend development, database-related tasks, and application maintenance.
 <br/>
 
 ## Tech Stack
