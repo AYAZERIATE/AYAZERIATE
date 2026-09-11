@@ -3,20 +3,20 @@
 </div>
 
 ## About
-I'm a full-stack developer based in Morocco, building web products end-to-end — from the database schema to the screen someone actually clicks through. I like understanding a system fully rather than just the surface layer, which is part of why full-stack work suits me: the backend logic, the API contracts, and the UI details all end up connected.
+Full-stack developer based in Morocco, working end-to-end on web products — from database schema design to the final user interface. I focus on understanding systems fully rather than just the surface layer, connecting backend logic, API contracts, and UI details into a cohesive whole.
 
-Right now I'm mostly working with **React**, **TypeScript**, **Laravel**, and **MongoDB** — building authentication flows, API integrations, and data models for real, working apps rather than isolated demos.
+Currently working primarily with **React**, **TypeScript**, **Laravel**, and **MongoDB**, building authentication flows, API integrations, and data models for production-oriented applications rather than isolated demos.
 <br/>
 
 ## Experience
 **Frontend Developer (Intern)** — Ministère de l'Équipement, du Transport et de l'Eau, Morocco
-Built the frontend for **TrackRoute**, a logistics and route-tracking platform, covering API integration, authentication flow, and protected routing.
+Developed the frontend for **TrackRoute**, a logistics and route-tracking platform, including API integration, authentication flows, and protected routing.
 <br/>
 
 ## Featured Projects
 
-- **BookMySpace** — Space booking and reservation management platform built with Symfony, PHP, Doctrine ORM, and MySQL, with a focus on backend architecture, database management, entities, CRUD operations, authentication, and reservations.
-- **iClinika** — Medical management web application developed as part of a team project using PHP, MySQL, and cPanel, contributing to backend development, database-related tasks, and application maintenance.
+- **BookMySpace** — Space booking and reservation management platform built with Symfony, PHP, Doctrine ORM, and MySQL, focused on backend architecture, database design, entity modeling, CRUD operations, authentication, and reservation logic.
+- **iClinika** — Medical management web application developed as part of a team project using PHP, MySQL, and cPanel, contributing to backend development, database design, and application maintenance.
 <br/>
 
 ## Tech Stack
