@@ -11,6 +11,9 @@ Currently working primarily with **React**, **TypeScript**, **Laravel**, and **M
 ## Experience
 **Frontend Developer (Intern)** — Ministère de l'Équipement, du Transport et de l'Eau, Morocco
 Developed the frontend for **TrackRoute**, a logistics and route-tracking platform, including API integration, authentication flows, and protected routing.
+
+**Team Project** — 4D Consulting
+Contributed to **iClinika**, a medical management web application, covering backend development, database design, and application maintenance.
 <br/>
 
 ## Featured Projects
@@ -56,4 +59,4 @@ Developed the frontend for **TrackRoute**, a logistics and route-tracking platfo
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)(mailto:ayazeriate6@gmail.com)
