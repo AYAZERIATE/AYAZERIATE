@@ -10,7 +10,7 @@ Currently working primarily with **React**, **TypeScript**, **Laravel**, and **M
 
 ## Experience
 **Frontend Developer (Intern)** — Ministère de l'Équipement, du Transport et de l'Eau, Morocco
-Developed the frontend for **TrackRoute**, a logistics and route-tracking platform, including API integration, authentication flows, and protected routing.
+Developed the frontend for **TrackRoute**, a logistics and route-tracking platform, including API integration,authentication flows, and protected routing.
 
 **Team Project** — 4D Consulting
 Contributed to **iClinika**, a medical management web application, covering backend development, database design, and application maintenance.
