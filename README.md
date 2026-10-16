@@ -1,28 +1,38 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Aya%20Zeriate&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descAlignY=85&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Aya%20Zeriate&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Web%20Developer&descAlignY=85&descSize=14" width="100%"/>
 </div>
 
 ## About
-Full-stack developer based in Morocco, working end-to-end on web products — from database schema design to the final user interface. I focus on understanding systems fully rather than just the surface layer, connecting backend logic, API contracts, and UI details into a cohesive whole.
 
-Currently working primarily with **React**, **TypeScript**, **Laravel**, and **MongoDB**, building authentication flows, API integrations, and data models for production-oriented applications rather than isolated demos.
+Full-stack web developer based in Morocco, building web applications end to end: from database schema design to the final user interface. I focus on understanding the whole system, connecting backend logic, API contracts, and UI details into a coherent product.
+
+My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I build authentication flows, API integrations, and data models for production-oriented applications rather than isolated demos.
+
+**Open to:** web development internship opportunities in the Rabat / Salé / Témara area.
+
 <br/>
 
 ## Experience
-**Frontend Developer (Intern)** — Ministère de l'Équipement, du Transport et de l'Eau, Morocco
-Developed the frontend for **TrackRoute**, a logistics and route-tracking platform, including API integration,authentication flows, and protected routing.
 
-**Team Project** — 4D Consulting
-Contributed to **iClinika**, a medical management web application, covering backend development, database design, and application maintenance.
+**Frontend Developer (Intern)** | Ministère de l'Équipement, du Transport et de l'Eau, Morocco
+- Built the frontend of **TrackRoute**, a logistics and route-tracking platform.
+- Implemented API integration, authentication flows, and protected routing.
+
+**Developer (Intern)** | 4D Business Consulting
+- Contributed to **iClinika**, a medical management web application, as part of a team.
+- Worked on backend development, database design, and application maintenance.
+
 <br/>
 
 ## Featured Projects
 
-- **BookMySpace** — Space booking and reservation management platform built with Symfony, PHP, Doctrine ORM, and MySQL, focused on backend architecture, database design, entity modeling, CRUD operations, authentication, and reservation logic.
-- **iClinika** — Medical management web application developed as part of a team project using PHP, MySQL, and cPanel, contributing to backend development, database design, and application maintenance.
+- **BookMySpace**: Space booking and reservation management platform built with Symfony, Doctrine ORM, and MySQL. Covers entity modeling, database design, authentication, CRUD operations, and reservation logic.
+- **iClinika**: Medical management web application built in a team with PHP (Laravel), MySQL, and cPanel. My work covered backend development, database design, and maintenance.
+
 <br/>
 
 ## Tech Stack
+
 **Languages & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,9 +64,10 @@ Contributed to **iClinika**, a medical management web application, covering back
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-<br/>
+
 <br/>
 
 ## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
