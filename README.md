@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=header&text=Aya%20Zeriate&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Web%20Developer&descAlignY=85&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161B22,30363D&height=200&section=header&text=Aya%20Zeriate&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%"/>
+
+<a href="https://github.com/AYAZERIATE">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=React+%7C+TypeScript+%7C+Laravel+%7C+MongoDB;From+database+schema+to+final+UI;Open+to+internships+in+Rabat+%2F+Sal%C3%A9+%2F+T%C3%A9mara" alt="Typing SVG" />
+</a>
 </div>
 
 ## About
@@ -67,7 +71,19 @@ My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I b
 
 <br/>
 
+## GitHub Activity
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contributions" width="100%"/>
+</div>
+
+<br/>
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161B22,30363D&height=100&section=footer" width="100%"/>
+</div>
