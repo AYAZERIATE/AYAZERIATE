@@ -71,7 +71,13 @@ My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I b
 
 <br/>
 
+## 3D Contributions
 
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Aya Zeriate's 3D GitHub contributions" width="100%"/>
+</div>
+
+<br/>
 
 ## Connect
 
