@@ -6,7 +6,7 @@
 </a>
 </div>
 
-## About
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="32" height="32" align="center" alt=""/> About
 
 Full-stack web developer based in Morocco, building web applications end to end: from database schema design to the final user interface. I focus on understanding the whole system, connecting backend logic, API contracts, and UI details into a coherent product.
 
@@ -16,7 +16,7 @@ My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I b
 
 <br/>
 
-## Experience
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="32" height="32" align="center" alt=""/> Experience
 
 **Frontend Developer (Intern)** | Ministère de l'Équipement, du Transport et de l'Eau, Morocco
 - Built the frontend of **TrackRoute**, a logistics and route-tracking platform.
@@ -28,14 +28,14 @@ My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I b
 
 <br/>
 
-## Featured Projects
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="32" height="32" align="center" alt=""/> Featured Projects
 
 - **BookMySpace**: Space booking and reservation management platform built with Symfony, Doctrine ORM, and MySQL. Covers entity modeling, database design, authentication, CRUD operations, and reservation logic.
 - **iClinika**: Medical management web application built in a team with PHP (Laravel), MySQL, and cPanel. My work covered backend development, database design, and maintenance.
 
 <br/>
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="32" height="32" align="center" alt=""/> Tech Stack
 
 **Languages & Frameworks**
 
@@ -71,15 +71,7 @@ My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I b
 
 <br/>
 
-## 3D Contributions
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Aya Zeriate's 3D GitHub contributions" width="100%"/>
-</div>
-
-<br/>
-
-## Connect
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="32" height="32" align="center" alt=""/> Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazeriate6@gmail.com)
