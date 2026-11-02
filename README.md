@@ -10,7 +10,7 @@
 
 Full-stack web developer based in Morocco. I build web applications end to end, from database design to the user interface, with a focus on how backend logic, API contracts, and UI details fit together into a coherent product.
 
-My main stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I have worked on authentication flows, API integrations, and data models in real project settings, beyond standalone demos.
+My main stack is **React**, **Next.js**, **TypeScript**, **Laravel**, and **MongoDB**. I have worked on authentication flows, API integrations, and data models in real project settings, beyond standalone demos.
 
 **Open to:** web development internships in the Rabat / Salé / Témara area.
 
@@ -40,6 +40,7 @@ My main stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I have
 **Languages & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
