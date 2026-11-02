@@ -8,30 +8,30 @@
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="32" height="32" align="center" alt=""/> About
 
-Full-stack web developer based in Morocco, building web applications end to end: from database schema design to the final user interface. I focus on understanding the whole system, connecting backend logic, API contracts, and UI details into a coherent product.
+Full-stack web developer based in Morocco. I build web applications end to end, from database design to the user interface, with a focus on how backend logic, API contracts, and UI details fit together into a coherent product.
 
-My current stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I build authentication flows, API integrations, and data models for production-oriented applications rather than isolated demos.
+My main stack is **React**, **TypeScript**, **Laravel**, and **MongoDB**. I have worked on authentication flows, API integrations, and data models in real project settings, beyond standalone demos.
 
-**Open to:** web development internship opportunities in the Rabat / Salé / Témara area.
+**Open to:** web development internships in the Rabat / Salé / Témara area.
 
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="32" height="32" align="center" alt=""/> Experience
 
 **Frontend Developer (Intern)** | Ministère de l'Équipement, du Transport et de l'Eau, Morocco
-- Built the frontend of **TrackRoute**, a logistics and route-tracking platform.
-- Implemented API integration, authentication flows, and protected routing.
+- Developed the frontend of **TrackRoute**, a logistics and route-tracking platform.
+- Integrated the API and implemented authentication flows and protected routes.
 
 **Developer (Intern)** | 4D Business Consulting
-- Contributed to **iClinika**, a medical management web application, as part of a team.
+- Contributed to **iClinika**, a medical management web application, within a team.
 - Worked on backend development, database design, and application maintenance.
 
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="32" height="32" align="center" alt=""/> Featured Projects
 
-- **BookMySpace**: Space booking and reservation management platform built with Symfony, Doctrine ORM, and MySQL. Covers entity modeling, database design, authentication, CRUD operations, and reservation logic.
-- **iClinika**: Medical management web application built in a team with PHP (Laravel), MySQL, and cPanel. My work covered backend development, database design, and maintenance.
+- **BookMySpace**: A space booking and reservation management platform built with Symfony, Doctrine ORM, and MySQL. Includes entity modeling, database design, authentication, CRUD operations, and reservation logic.
+- **iClinika**: A medical management web application developed in a team with Laravel, MySQL, and cPanel. I was responsible for backend development, database design, and maintenance.
 
 <br/>
 
