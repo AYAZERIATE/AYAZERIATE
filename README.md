@@ -32,12 +32,7 @@ My main stack is **React**, **Next.js**, **TypeScript**, **Node.js**, **Laravel*
 
 ---
 
-## Featured Projects
 
-- **BookMySpace**: A space booking and reservation management platform built with Symfony, Doctrine ORM, and MySQL. Includes entity modeling, database design, authentication, CRUD operations, and reservation logic.
-- **iClinika**: A medical management web application developed in a team with Laravel, MySQL, and cPanel. I was responsible for backend development, database design, and maintenance.
-
----
 
 ## Tech Stack
 
