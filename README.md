@@ -76,7 +76,12 @@ My main stack is **React**, **Next.js**, **TypeScript**, **Node.js**, **Laravel*
 ![cPanel](https://img.shields.io/badge/cPanel-000000?style=for-the-badge&logo=cpanel&logoColor=white)
 
 ---
+## Featured Projects
 
+- **BookMySpace**: A space booking and reservation management platform built with Symfony, Doctrine ORM, and MySQL. Includes entity modeling, database design, authentication, CRUD operations, and reservation logic.
+- **iClinika**: A medical management web application developed in a team with Laravel, MySQL, and cPanel. I was responsible for backend development, database design, and maintenance.
+- **Learny**: A React application with a login page, shared navbar and footer, and client-side routing with React Router.
+- **Planner**: A multi-page React site built with Vite and React Router, with About, Story, New Arrivals, Contact, Enterprise, and Start-Up pages.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zeriate-0b123a338/)
